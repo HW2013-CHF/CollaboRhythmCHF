@@ -44,14 +44,23 @@
 		import collaboRhythm.shared.model.Account;
 		import collaboRhythm.shared.model.healthRecord.document.Problem;
 		import collaboRhythm.shared.model.healthRecord.document.ProblemsModel;
+		import collaboRhythm.shared.model.healthRecord.document.VitalSign;
+		import collaboRhythm.shared.model.healthRecord.document.VitalSignsModel;
 		import collaboRhythm.shared.model.services.IImageCacheService;
 		import collaboRhythm.shared.model.services.WorkstationKernel;
+
+		import mx.collections.ArrayCollection;
 
 		import mx.events.PropertyChangeEvent;
 
 		[Bindable]
 		private var _recordAccount:Account;
 		private var _problemsModel:ProblemsModel;
+
+		private var _vitalSignsModel:VitalSignsModel;
+
+		[Bindable]
+		private var _currentCHFScore:int;
 
 		private static const SEPARATOR_COLOR:String = "0xA7A9AC";
 
@@ -71,7 +80,24 @@
 				_problemsModel = _recordAccount.primaryRecord.problemsModel;
 				_problemsModel.addEventListener(PropertyChangeEvent.PROPERTY_CHANGE, problems_propertyChangeHandler);
 
+				_vitalSignsModel = _recordAccount.primaryRecord.vitalSignsModel;
+
 				renderProblems();
+//				renderCHFScore();
+			}
+		}
+
+		private function renderCHFScore():void
+		{
+			var chfScores:ArrayCollection = _vitalSignsModel.getVitalSignsByCategory(VitalSignsModel.CHF_SCORE_CATEGORY) as
+					ArrayCollection;
+			if (chfScores && chfScores.length != 0)
+			{
+				var chfScoreVitalSign:VitalSign = chfScores.getItemAt(chfScores.length - 1) as VitalSign;
+				if (chfScoreVitalSign)
+				{
+					_currentCHFScore = chfScoreVitalSign.resultAsNumber;
+				}
 			}
 		}
 
@@ -89,6 +115,12 @@
 			{
 				for each (var problem:Problem in _problemsModel.problemsCollection)
 				{
+					if (problem.name.text == "CHF Score")
+					{
+
+						_currentCHFScore = parseInt(problem.comments);
+					}
+
 					// add pipe to separate problems
 					if (problemsParagraph.numChildren > 0)
 					{
@@ -163,8 +195,10 @@
 		<s:Group right="0" top="10" width="60" height="60">
 			<view:MessagesIcon visible="{_recordAccount.messagesModel.unreadMessageCount != 0}"/>
 			<view:NoMessagesIcon visible="{_recordAccount.messagesModel.unreadMessageCount == 0}"/>
-			<s:Label id="unreadMessageCountLabel" horizontalCenter="0" verticalCenter="-2" text="{_recordAccount.messagesModel.unreadMessageCount}"/>
+			<s:Label id="unreadMessageCountLabel" horizontalCenter="0" verticalCenter="-2"
+					 text="{_recordAccount.messagesModel.unreadMessageCount}"/>
 		</s:Group>
+		<s:Label text="{_currentCHFScore.toString()}" right="0"/>
 	</s:Group>
 
 	<s:Line left="0" right="0" bottom="0">

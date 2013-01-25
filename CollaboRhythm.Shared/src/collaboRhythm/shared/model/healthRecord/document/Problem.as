@@ -22,8 +22,8 @@ package collaboRhythm.shared.model.healthRecord.document
 	import collaboRhythm.shared.model.healthRecord.CodedValue;
 	import collaboRhythm.shared.model.healthRecord.DocumentBase;
 	import collaboRhythm.shared.model.healthRecord.DocumentMetadata;
-    import collaboRhythm.shared.model.healthRecord.HealthRecordHelperMethods;
-    import collaboRhythm.shared.model.services.ICurrentDateSource;
+	import collaboRhythm.shared.model.healthRecord.HealthRecordHelperMethods;
+	import collaboRhythm.shared.model.services.ICurrentDateSource;
 	import collaboRhythm.shared.model.services.WorkstationKernel;
 
 	[Bindable]
@@ -35,32 +35,34 @@ package collaboRhythm.shared.model.healthRecord.document
 		private var _dateOnset:Date;
 		private var _dateResolution:Date;
 		private var _currentDateSource:ICurrentDateSource;
-		
+		private var _comments:String;
+
+
 		public function Problem()
 		{
 			meta.type = DOCUMENT_TYPE;
 			_currentDateSource = WorkstationKernel.instance.resolve(ICurrentDateSource) as ICurrentDateSource;
 		}
 
-        public function initFromReportXML(problemReportXml:XML):void
-        {
+		public function initFromReportXML(problemReportXml:XML):void
+		{
 			default xml namespace = "http://indivo.org/vocab/xml/documents#";
-            DocumentMetadata.parseDocumentMetadata(problemReportXml.Meta.Document[0], this.meta);
+			DocumentMetadata.parseDocumentMetadata(problemReportXml.Meta.Document[0], this.meta);
 			var problemXml:XML = problemReportXml.Item.Problem[0];
-            _name = HealthRecordHelperMethods.xmlToCodedValue(problemXml.name[0]);
+			_name = HealthRecordHelperMethods.xmlToCodedValue(problemXml.name[0]);
 			_commonName = problemXml.comments;
-			_dateOnset =  DateUtil.parseW3CDTF(problemXml.dateOnset.toString());
-			_dateResolution =  DateUtil.parseW3CDTF(problemXml.dateResolution.toString());
-        }
+			_dateOnset = DateUtil.parseW3CDTF(problemXml.dateOnset.toString());
+			_dateResolution = DateUtil.parseW3CDTF(problemXml.dateResolution.toString());
+		}
 
 		public function get commonNameLabel():String
 		{
 			if (_commonName != null && _commonName.length > 0)
 				return "(" + _commonName + ")";
-			
+
 			return null;
 		}
-		
+
 		public function get commonName():String
 		{
 			return _commonName;
@@ -75,12 +77,12 @@ package collaboRhythm.shared.model.healthRecord.document
 		{
 			return _name;
 		}
-		
+
 		public function set name(value:CodedValue):void
 		{
 			_name = value;
 		}
-		
+
 		public function get isInactive():Boolean
 		{
 			if (_dateResolution != null)
@@ -108,6 +110,16 @@ package collaboRhythm.shared.model.healthRecord.document
 		public function set dateResolution(value:Date):void
 		{
 			_dateResolution = value;
+		}
+
+		public function get comments():String
+		{
+			return _comments;
+		}
+
+		public function set comments(value:String):void
+		{
+			_comments = value;
 		}
 	}
 }
