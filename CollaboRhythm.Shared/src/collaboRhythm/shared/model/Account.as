@@ -18,6 +18,7 @@ package collaboRhythm.shared.model
 {
 
 	import collaboRhythm.shared.model.healthRecord.document.MessagesModel;
+	import collaboRhythm.shared.model.healthRecord.document.Problem;
 
 	import flash.net.NetStream;
 
@@ -74,29 +75,74 @@ package collaboRhythm.shared.model
 		 * @param fields
 		 * @return
 		 */
+//		protected function sortCompare(objA:Object, objB:Object, fields:Array = null):int
+//		{
+//			var accountA:Account = objA as Account;
+//			var accountB:Account = objB as Account;
+//			if (accountA && accountA.primaryRecord.contact &&
+//					accountB && accountB.primaryRecord.contact)
+//			{
+//				var accountFullNameA:String = accountA.primaryRecord.contact.familyName + ", " +
+//						accountA.primaryRecord.contact.givenName;
+//				var accountFullNameB:String = accountB.primaryRecord.contact.familyName + ", " +
+//						accountB.primaryRecord.contact.givenName;
+//
+//				if (accountFullNameA < accountFullNameB)
+//				{
+//					return -1;
+//				}
+//				else if (accountFullNameA == accountFullNameB)
+//				{
+//					return 0;
+//				}
+//				return 1;
+//			}
+//			return 0;
+//		}
+
+		private function getCHFScore(account:Account)
+		{
+			if (!account || !account.primaryRecord.problemsModel) return 0;
+
+			for each (var problem:Problem in account.primaryRecord.problemsModel.problemsCollection)
+			{
+				if (problem.name.text == "CHF Score")
+				{
+					return parseInt(problem.comments);
+				}
+			}
+			return 0;
+		}
+
+		/**
+		 * Created by Yuval Barak-Corren
+		 *
+		 * Sort by CHF Score, which is an aggregated score of the patient's condition
+		 * Found in .Problems to be available when creating the list.
+		 *
+		 * @param objA
+		 * @param objB
+		 * @param fields
+		 * @return
+		 */
 		protected function sortCompare(objA:Object, objB:Object, fields:Array = null):int
 		{
 			var accountA:Account = objA as Account;
 			var accountB:Account = objB as Account;
-			if (accountA && accountA.primaryRecord.contact &&
-					accountB && accountB.primaryRecord.contact)
-			{
-				var accountFullNameA:String = accountA.primaryRecord.contact.familyName + ", " +
-						accountA.primaryRecord.contact.givenName;
-				var accountFullNameB:String = accountB.primaryRecord.contact.familyName + ", " +
-						accountB.primaryRecord.contact.givenName;
 
-				if (accountFullNameA < accountFullNameB)
-				{
-					return -1;
-				}
-				else if (accountFullNameA == accountFullNameB)
-				{
-					return 0;
-				}
+			var scoreA:int = getCHFScore(accountA);
+			var scoreB:int = getCHFScore(accountB);
+
+			if (scoreA < scoreB)
+			{
 				return 1;
 			}
-			return 0;
+			else if (scoreA == scoreB)
+			{
+				return 0;
+			}
+			return -1;
+
 		}
 
 		public function addSharedRecordAccount(sharedRecordAccount:Account):void

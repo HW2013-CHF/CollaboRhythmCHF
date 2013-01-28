@@ -44,6 +44,7 @@
 		{
 			_applicationController = workstationApplicationController;
 			_activeAccount = activeAccount;
+			_activeAccount.sharedRecordAccountsCollection.refresh();
 		}
 
 		protected function sharedRecordsList_changeHandler():void

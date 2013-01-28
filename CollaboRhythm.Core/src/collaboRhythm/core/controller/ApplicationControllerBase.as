@@ -757,9 +757,11 @@ package collaboRhythm.core.controller
 			}
 			else if (_settings.isClinicianMode)
 			{
-				var sort:Sort = new Sort();
-				sort.fields = [new SortField("accountId")];
-				_activeAccount.sharedRecordAccountsCollection.sort = sort;
+				//TODO: commented out so sort will be by CHF score
+//				var sort:Sort = new Sort();
+//				sort.fields = [new SortField("accountId")];
+//				_activeAccount.sharedRecordAccountsCollection.sort = sort;
+
 				_activeAccount.sharedRecordAccountsCollection.refresh();
 
 				showSelectRecordView();
