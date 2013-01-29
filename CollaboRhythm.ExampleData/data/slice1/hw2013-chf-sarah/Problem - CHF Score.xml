@@ -16,8 +16,11 @@
   ~ <http://www.gnu.org/licenses/>.
   -->
 <Problem xmlns="http://indivo.org/vocab/xml/documents#">
-	<dateOnset>2002-05-16T16:57:00Z</dateOnset>
-	<name type="umls-snomed" value="59621000" abbrev="None">CHF</name>
-	<comments>5</comments>
-	<diagnosedBy>jking@records.media.mit.edu</diagnosedBy>
+	<startDate>2002-05-16T16:57:00Z</startDate>
+	<name>
+        <title>CHF</title>
+        <system>http://purl.bioontology.org/ontology/SNOMEDCT/</system>
+        <identifier>59621000</identifier>
+    </name>
+	<notes>5</notes>
 </Problem>

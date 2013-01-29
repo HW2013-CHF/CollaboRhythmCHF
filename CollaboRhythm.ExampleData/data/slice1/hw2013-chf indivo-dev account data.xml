@@ -1,250 +1,498 @@
 <?xml version="1.0" encoding="utf-8"?>
 <dataroot>
+  
+  <indivoServerBaseURL>http://indivo-dev.media.mit.edu:9291</indivoServerBaseURL>
+  
   <AccountSource>
+    
     <accountId>example-clinician@records.media.mit.edu</accountId>
+    
     <contactEmail>not_used@fake.org</contactEmail>
+    
     <fullName>Example Clinician</fullName>
+    
     <username>example-clinician</username>
+    
     <password>example-clinician</password>
+    
     <givenName>Example</givenName>
+    
     <familyName>Clinician</familyName>
+    
     <streetAddress>1066 Spinel Rd</streetAddress>
+    
     <postalCode>2142</postalCode>
+    
     <locality>Cambridge</locality>
+    
     <region>Massachusetts</region>
+    
     <country>US</country>
+    
     <timeZone>-5GMT</timeZone>
+    
     <emailPersonal>example-clinician@records.media.mit.edu</emailPersonal>
+    
     <phoneNumberHome>1-555-555-6548</phoneNumberHome>
+    
     <phoneNumberWork>1-555-555-8654</phoneNumberWork>
+    
     <instantMessengerName>example-clinician@records.media.mit.edu</instantMessengerName>
+    
     <dateOfBirth>1957-03-29T00:00:00Z</dateOfBirth>
+    
     <age>53</age>
+    
     <gender>Male</gender>
+    
     <ethnicity>White</ethnicity>
+    
     <language>English</language>
+    
     <maritalStatus>Married</maritalStatus>
+    
     <employmentStatus>Employed</employmentStatus>
+    
     <employmentIndustry>Medical</employmentIndustry>
+    
     <occupation>Doctor</occupation>
+    
     <religion>Protestant</religion>
+    
     <highestEducation>University</highestEducation>
+    
     <organDonar>true</organDonar>
-    <recordId>Please do not use this account</recordId>
+    
+    <recordId/>
+    
     <status/>
+    
     <accessKey/>
+    
     <accessSecret/>
+    
     <demographicsId/>
+    
     <notes>Use "Account -&gt; Duplicate Account Source" to make your own account based on this one</notes>
+    
     <recordSeed/>
+    
     <mode>clinician</mode>
+    
   </AccountSource>
+  
   <AccountSource>
+    
     <accountId>example-patient@records.media.mit.edu</accountId>
+    
     <contactEmail>not_used@fake.org</contactEmail>
+    
     <fullName>Example Patient</fullName>
+    
     <username>example-patient</username>
+    
     <password>example-patient</password>
+    
     <givenName>Example</givenName>
+    
     <familyName>Patient</familyName>
+    
     <streetAddress>84 Spruce Street</streetAddress>
+    
     <postalCode>2215</postalCode>
+    
     <locality>Boston</locality>
+    
     <region>Massachusetts</region>
+    
     <country>US</country>
+    
     <timeZone>-5GMT</timeZone>
+    
     <emailPersonal>example-patient@records.media.mit.edu</emailPersonal>
+    
     <phoneNumberHome>1-555-555-6548</phoneNumberHome>
+    
     <phoneNumberWork>1-555-555-8654</phoneNumberWork>
+    
     <instantMessengerName>example-patient@records.media.mit.edu</instantMessengerName>
+    
     <dateOfBirth>1940-02-24T00:00:00Z</dateOfBirth>
+    
     <age>70</age>
+    
     <gender>Female</gender>
+    
     <ethnicity>White</ethnicity>
+    
     <language>English</language>
+    
     <maritalStatus>Widowed</maritalStatus>
+    
     <employmentStatus>Retired</employmentStatus>
+    
     <employmentIndustry>Education</employmentIndustry>
+    
     <occupation>Teacher</occupation>
+    
     <religion>Protestant</religion>
+    
     <highestEducation>University</highestEducation>
+    
     <organDonar>true</organDonar>
-    <recordId>Please do not use this account</recordId>
+    
+    <recordId/>
+    
     <accessKey/>
+    
     <accessSecret/>
+    
     <status/>
+    
     <demographicsId>18124489-3b91-45bd-90a9-375a520eca26</demographicsId>
+    
     <recordSeed/>
+    
     <shareAccountId>example-clinician@records.media.mit.edu</shareAccountId>
+    
     <notes>Use "Account -&gt; Duplicate Account Source" to make your own account based on this one</notes>
+    
     <shareRole>Coach</shareRole>
+    
     <documentsDirectory>mbrooks</documentsDirectory>
+    
     <mode>patient</mode>
+    
   </AccountSource>
+  
   <AccountSource>
+    
     <accountId>hw2013-chf-yuval@records.media.mit.edu</accountId>
+    
     <contactEmail>not_used@fake.org</contactEmail>
+    
     <fullName>Yuval Barak-Corren</fullName>
+    
     <username>hw2013-chf-yuval</username>
+    
     <password>hw2013-chf-yuval</password>
+    
     <givenName>Yuval</givenName>
+    
     <familyName>Barak-Corren</familyName>
+    
     <streetAddress>1066 Spinel Rd</streetAddress>
+    
     <postalCode>2142</postalCode>
+    
     <locality>Cambridge</locality>
+    
     <region>Massachusetts</region>
+    
     <country>US</country>
+    
     <timeZone>-5GMT</timeZone>
+    
     <emailPersonal>example-clinician@records.media.mit.edu</emailPersonal>
+    
     <phoneNumberHome>1-555-555-6548</phoneNumberHome>
+    
     <phoneNumberWork>1-555-555-8654</phoneNumberWork>
+    
     <instantMessengerName>example-clinician@records.media.mit.edu</instantMessengerName>
+    
     <dateOfBirth>1957-03-29T00:00:00Z</dateOfBirth>
+    
     <age>53</age>
+    
     <gender>Male</gender>
+    
     <ethnicity>White</ethnicity>
+    
     <language>English</language>
+    
     <maritalStatus>Married</maritalStatus>
+    
     <employmentStatus>Employed</employmentStatus>
+    
     <employmentIndustry>Medical</employmentIndustry>
+    
     <occupation>Doctor</occupation>
+    
     <religion>Protestant</religion>
+    
     <highestEducation>University</highestEducation>
+    
     <organDonar>true</organDonar>
-    <recordId>730f9614-2b11-4a35-902f-9f793ca0a1ce</recordId>
-    <status>Demographics document created. Id: 76e3c6e3-24b1-4028-8276-c85ff30a3720</status>
-    <accessKey>fUE8fbI9U8WRjQyoNsmz</accessKey>
-    <accessSecret>os3TTqdfkK2O99zIXj7a</accessSecret>
-    <demographicsId>76e3c6e3-24b1-4028-8276-c85ff30a3720</demographicsId>
-    <notes>Use "Account -&gt; Duplicate Account Source" to make your own account based on this one</notes>
+    
+    <recordId>74b2a4ff-f784-4967-8c43-88647694585c</recordId>
+    
+    <status>Demographics document created. Id: e634a9ac-816b-4c14-98e2-4e66ac2303a8</status>
+    
+    <accessKey>uHmHtzHgs8jsiMvNGeAF</accessKey>
+    
+    <accessSecret>1A8KvNz3LKPypLQziaaQ</accessSecret>
+    
+    <demographicsId>e634a9ac-816b-4c14-98e2-4e66ac2303a8</demographicsId>
+    
+    <notes/>
+    
     <recordSeed/>
+    
     <mode>clinician</mode>
+    
   </AccountSource>
+  
   <AccountSource>
+    
     <accountId>hw2013-chf-sarah@records.media.mit.edu</accountId>
+    
     <contactEmail>not_used@fake.org</contactEmail>
+    
     <fullName>Sarah Marshall</fullName>
+    
     <username>hw2013-chf-sarah</username>
+    
     <password>hw2013-chf-sarah</password>
+    
     <givenName>Sarah</givenName>
+    
     <familyName>Marshall</familyName>
+    
     <streetAddress>84 Spruce Street</streetAddress>
+    
     <postalCode>2215</postalCode>
+    
     <locality>Boston</locality>
+    
     <region>Massachusetts</region>
+    
     <country>US</country>
+    
     <timeZone>-5GMT</timeZone>
+    
     <emailPersonal>hw2013-chf-sarah@records.media.mit.edu</emailPersonal>
+    
     <phoneNumberHome>1-555-555-6548</phoneNumberHome>
+    
     <phoneNumberWork>1-555-555-8654</phoneNumberWork>
+    
     <instantMessengerName>hw2013-chf-sarah@records.media.mit.edu</instantMessengerName>
-    <dateOfBirth>1940-02-24T00:00:00Z</dateOfBirth>
+    
+    <dateOfBirth>1937-02-24T00:00:00Z</dateOfBirth>
+    
     <age>76</age>
+    
     <gender>Female</gender>
+    
     <ethnicity>White</ethnicity>
+    
     <language>English</language>
+    
     <maritalStatus>Widowed</maritalStatus>
+    
     <employmentStatus>Retired</employmentStatus>
+    
     <employmentIndustry>Education</employmentIndustry>
+    
     <occupation>Teacher</occupation>
+    
     <religion>Protestant</religion>
+    
     <highestEducation>University</highestEducation>
+    
     <organDonar>true</organDonar>
-    <recordId>01f31cc8-097c-4fe8-8481-13d20e26cdfe</recordId>
-    <accessKey>bBpz0iOMyDBPT83oaJvX</accessKey>
-    <accessSecret>VJi17EZvrBhATyvORTcq</accessSecret>
-    <status>Demographics document created. Id: 076fb785-ab4b-404c-89e2-9fbdc6a94cbe</status>
-    <demographicsId>076fb785-ab4b-404c-89e2-9fbdc6a94cbe</demographicsId>
+    
+    <recordId>b8abb573-b100-48d8-9267-733ade409fd6</recordId>
+    
+    <accessKey>aIamWJTJoPZlE4omjhAX</accessKey>
+    
+    <accessSecret>l7evhrHZF2hCD5X4G3GL</accessSecret>
+    
+    <status>Demographics document created. Id: ed0970ff-723e-49c4-9150-018895831c23</status>
+    
+    <demographicsId>ed0970ff-723e-49c4-9150-018895831c23</demographicsId>
+    
     <recordSeed/>
+    
     <shareAccountId>hw2013-chf-yuval@records.media.mit.edu</shareAccountId>
-    <notes>Use "Account -&gt; Duplicate Account Source" to make your own account based on this one</notes>
+    
+    <notes/>
+    
     <shareRole>Doctor</shareRole>
+    
     <documentsDirectory/>
+    
     <mode>patient</mode>
+    
   </AccountSource>
+  
   <AccountSource>
+    
     <accountId>hw2013-chf-small@records.media.mit.edu</accountId>
+    
     <contactEmail>not_used@fake.org</contactEmail>
+    
     <fullName>Jeff Small</fullName>
+    
     <username>hw2013-chf-small</username>
+    
     <password>hw2013-chf-small</password>
+    
     <givenName>Jeff</givenName>
+    
     <familyName>Small</familyName>
+    
     <streetAddress>84 Spruce Street</streetAddress>
+    
     <postalCode>2215</postalCode>
+    
     <locality>Boston</locality>
+    
     <region>Massachusetts</region>
+    
     <country>US</country>
+    
     <timeZone>-5GMT</timeZone>
+    
     <emailPersonal>hw2013-chf-small@records.media.mit.edu</emailPersonal>
+    
     <phoneNumberHome>1-555-555-6548</phoneNumberHome>
+    
     <phoneNumberWork>1-555-555-8654</phoneNumberWork>
+    
     <instantMessengerName>hw2013-chf-small@records.media.mit.edu</instantMessengerName>
-    <dateOfBirth>1940-02-24T00:00:00Z</dateOfBirth>
+    
+    <dateOfBirth>1935-05-14T00:00:00Z</dateOfBirth>
+    
     <age>78</age>
+    
     <gender>Male</gender>
+    
     <ethnicity>White</ethnicity>
+    
     <language>English</language>
+    
     <maritalStatus>Widowed</maritalStatus>
+    
     <employmentStatus>Retired</employmentStatus>
+    
     <employmentIndustry>Education</employmentIndustry>
+    
     <occupation>Teacher</occupation>
+    
     <religion>Protestant</religion>
+    
     <highestEducation>University</highestEducation>
+    
     <organDonar>true</organDonar>
-    <recordId>611e0739-97ff-449f-ab28-d1db7be5550a</recordId>
-    <accessKey>YViVZQliFCkFAddeZQUW</accessKey>
-    <accessSecret>eLw06bjd5FI4Rgz71cZK</accessSecret>
+    
+    <recordId>fbd6e797-01ce-4006-8719-9f46adfaa1b5</recordId>
+    
+    <accessKey>EIyEouKBqAFiloU4sm2q</accessKey>
+    
+    <accessSecret>xfTI3qS2zlGlNO7Yctcu</accessSecret>
+    
     <status>Login successful</status>
-    <demographicsId>74fe595e-898d-4bc7-b2f5-1661f506dbcc</demographicsId>
+    
+    <demographicsId>444ac010-002a-4e98-ad61-f667274a4cd2</demographicsId>
+    
     <recordSeed/>
+    
     <shareAccountId>hw2013-chf-yuval@records.media.mit.edu</shareAccountId>
-    <notes>Use "Account -&gt; Duplicate Account Source" to make your own account based on this one</notes>
+    
+    <notes/>
+    
     <shareRole>Doctor</shareRole>
+    
     <documentsDirectory/>
+    
     <mode>patient</mode>
+    
   </AccountSource>
-  <indivoServerBaseURL>https://indivo-demo.media.mit.edu:8000</indivoServerBaseURL>
+  
   <AccountSource>
+    
     <accountId>hw2013-chf-david@records.media.mit.edu</accountId>
+    
     <contactEmail>not_used@fake.org</contactEmail>
+    
     <fullName>David Silverman</fullName>
+    
     <username>hw2013-chf-david</username>
+    
     <password>hw2013-chf-david</password>
+    
     <givenName>David</givenName>
+    
     <familyName>Silverman</familyName>
+    
     <streetAddress>84 Spruce Street</streetAddress>
+    
     <postalCode>2215</postalCode>
+    
     <locality>Boston</locality>
+    
     <region>Massachusetts</region>
+    
     <country>US</country>
+    
     <timeZone>-5GMT</timeZone>
+    
     <emailPersonal>hw2013-chf-david@records.media.mit.edu</emailPersonal>
+    
     <phoneNumberHome>1-555-555-6548</phoneNumberHome>
+    
     <phoneNumberWork>1-555-555-8654</phoneNumberWork>
+    
     <instantMessengerName>hw2013-chf-david@records.media.mit.edu</instantMessengerName>
-    <dateOfBirth>1940-02-24T00:00:00Z</dateOfBirth>
+    
+    <dateOfBirth>1942-07-13T00:00:00Z</dateOfBirth>
+    
     <age>70</age>
+    
     <gender>Male</gender>
+    
     <ethnicity>White</ethnicity>
+    
     <language>English</language>
+    
     <maritalStatus>Married</maritalStatus>
+    
     <employmentStatus>Retired</employmentStatus>
+    
     <employmentIndustry>Education</employmentIndustry>
+    
     <occupation>Teacher</occupation>
+    
     <religion>Protestant</religion>
+    
     <highestEducation>University</highestEducation>
+    
     <organDonar>true</organDonar>
-    <recordId>17ebc39b-3aba-45ba-9927-cf993915e854</recordId>
-    <accessKey>RPsJSi3Lf1ZrK4b9wn0j</accessKey>
-    <accessSecret>Xu8k0hFd8pOR5h0BtxOd</accessSecret>
-    <status>Login successful</status>
-    <demographicsId>e44d42a7-74a4-4e83-8a3f-068c1a7817b0</demographicsId>
+    
+    <recordId>058731ea-fd54-4aed-b22d-25e2413dc435</recordId>
+    
+    <accessKey>sM8GsmHEKXBQ5xVHtVkd</accessKey>
+    
+    <accessSecret>hhW5dRfdEsV2he3dYvkI</accessSecret>
+    
+    <status>Created 147/147 documents, 56/57 relationships</status>
+    
+    <demographicsId>35858874-5c5f-4829-afba-df261c3aacbd</demographicsId>
+    
     <recordSeed/>
+    
     <shareAccountId>hw2013-chf-yuval@records.media.mit.edu</shareAccountId>
-    <notes>Use "Account -&gt; Duplicate Account Source" to make your own account based on this one</notes>
+    
+    <notes/>
+    
     <shareRole>Doctor</shareRole>
+    
     <documentsDirectory/>
+    
     <mode>patient</mode>
+    
   </AccountSource>
+  
 </dataroot>

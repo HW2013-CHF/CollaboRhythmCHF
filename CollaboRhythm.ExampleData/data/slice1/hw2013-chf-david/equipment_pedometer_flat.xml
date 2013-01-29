@@ -18,7 +18,7 @@
 <IndivoDocuments>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T04:00:00Z</dateMeasuredStart>
@@ -26,12 +26,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T04:15:00Z</dateMeasuredStart>
@@ -39,12 +39,12 @@
 					<value>400</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T04:30:00Z</dateMeasuredStart>
@@ -52,12 +52,12 @@
 					<value>500</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T04:45:00Z</dateMeasuredStart>
@@ -65,12 +65,12 @@
 					<value>200</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T05:00:00Z</dateMeasuredStart>
@@ -78,12 +78,12 @@
 					<value>100</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T05:15:00Z</dateMeasuredStart>
@@ -91,12 +91,12 @@
 					<value>100</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T05:30:00Z</dateMeasuredStart>
@@ -104,12 +104,12 @@
 					<value>50</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T05:45:00Z</dateMeasuredStart>
@@ -117,12 +117,12 @@
 					<value>50</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T06:00:00Z</dateMeasuredStart>
@@ -130,12 +130,12 @@
 					<value>50</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T06:15:00Z</dateMeasuredStart>
@@ -143,12 +143,12 @@
 					<value>50</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T06:30:00Z</dateMeasuredStart>
@@ -156,12 +156,12 @@
 					<value>50</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T06:45:00Z</dateMeasuredStart>
@@ -169,12 +169,12 @@
 					<value>100</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T07:00:00Z</dateMeasuredStart>
@@ -182,12 +182,12 @@
 					<value>150</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T07:15:00Z</dateMeasuredStart>
@@ -195,12 +195,12 @@
 					<value>150</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T07:30:00Z</dateMeasuredStart>
@@ -208,12 +208,12 @@
 					<value>150</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T07:45:00Z</dateMeasuredStart>
@@ -221,12 +221,12 @@
 					<value>200</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T08:00:00Z</dateMeasuredStart>
@@ -234,12 +234,12 @@
 					<value>250</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T08:15:00Z</dateMeasuredStart>
@@ -247,12 +247,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T08:30:00Z</dateMeasuredStart>
@@ -260,12 +260,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T08:45:00Z</dateMeasuredStart>
@@ -273,12 +273,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T09:00:00Z</dateMeasuredStart>
@@ -286,12 +286,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T09:15:00Z</dateMeasuredStart>
@@ -299,12 +299,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T09:30:00Z</dateMeasuredStart>
@@ -312,12 +312,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T09:45:00Z</dateMeasuredStart>
@@ -325,12 +325,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T10:00:00Z</dateMeasuredStart>
@@ -338,12 +338,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T10:15:00Z</dateMeasuredStart>
@@ -351,12 +351,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T10:30:00Z</dateMeasuredStart>
@@ -364,12 +364,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T10:45:00Z</dateMeasuredStart>
@@ -377,12 +377,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T11:00:00Z</dateMeasuredStart>
@@ -390,12 +390,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T11:15:00Z</dateMeasuredStart>
@@ -403,12 +403,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T11:30:00Z</dateMeasuredStart>
@@ -416,12 +416,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T11:45:00Z</dateMeasuredStart>
@@ -429,12 +429,12 @@
 					<value>301</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T12:00:00Z</dateMeasuredStart>
@@ -442,12 +442,12 @@
 					<value>325</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T12:15:00Z</dateMeasuredStart>
@@ -455,12 +455,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T12:30:00Z</dateMeasuredStart>
@@ -468,12 +468,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T12:45:00Z</dateMeasuredStart>
@@ -481,12 +481,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T13:00:00Z</dateMeasuredStart>
@@ -494,12 +494,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T13:15:00Z</dateMeasuredStart>
@@ -507,12 +507,12 @@
 					<value>108</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T13:30:00Z</dateMeasuredStart>
@@ -520,12 +520,12 @@
 					<value>64</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T13:45:00Z</dateMeasuredStart>
@@ -533,12 +533,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T14:00:00Z</dateMeasuredStart>
@@ -546,12 +546,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T14:15:00Z</dateMeasuredStart>
@@ -559,12 +559,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T14:30:00Z</dateMeasuredStart>
@@ -572,12 +572,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T14:45:00Z</dateMeasuredStart>
@@ -585,12 +585,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T15:00:00Z</dateMeasuredStart>
@@ -598,12 +598,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T15:15:00Z</dateMeasuredStart>
@@ -611,12 +611,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T15:30:00Z</dateMeasuredStart>
@@ -624,12 +624,12 @@
 					<value>34</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T15:45:00Z</dateMeasuredStart>
@@ -637,12 +637,12 @@
 					<value>245</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T16:15:00Z</dateMeasuredStart>
@@ -650,12 +650,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T16:30:00Z</dateMeasuredStart>
@@ -663,12 +663,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T16:45:00Z</dateMeasuredStart>
@@ -676,12 +676,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T17:00:00Z</dateMeasuredStart>
@@ -689,12 +689,12 @@
 					<value>351</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T17:15:00Z</dateMeasuredStart>
@@ -702,12 +702,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T17:30:00Z</dateMeasuredStart>
@@ -715,12 +715,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T17:45:00Z</dateMeasuredStart>
@@ -728,12 +728,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T18:00:00Z</dateMeasuredStart>
@@ -741,12 +741,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T18:15:00Z</dateMeasuredStart>
@@ -754,12 +754,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T18:30:00Z</dateMeasuredStart>
@@ -767,12 +767,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T18:45:00Z</dateMeasuredStart>
@@ -780,12 +780,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T19:00:00Z</dateMeasuredStart>
@@ -793,12 +793,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T19:15:00Z</dateMeasuredStart>
@@ -806,12 +806,12 @@
 					<value>300</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T19:30:00Z</dateMeasuredStart>
@@ -819,12 +819,12 @@
 					<value>143</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 	<LoadableIndivoDocument>
 		<document>
-			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+			<CollaboRhythmVitalSign xmlns="http://indivo.org/vocab/xml/documents#">
 				<name>Step Count</name>
 				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
 				<dateMeasuredStart>2011-07-15T19:45:00Z</dateMeasuredStart>
@@ -832,7 +832,7 @@
 					<value>113</value>
 					<unit>Steps</unit>
 				</result>
-			</VitalSign>
+			</CollaboRhythmVitalSign>
 		</document>
 	</LoadableIndivoDocument>
 </IndivoDocuments>
