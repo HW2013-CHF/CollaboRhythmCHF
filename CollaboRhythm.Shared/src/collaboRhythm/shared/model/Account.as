@@ -106,9 +106,9 @@ package collaboRhythm.shared.model
 
 			for each (var problem:Problem in account.primaryRecord.problemsModel.problemsCollection)
 			{
-				if (problem.name.text == "CHF")
+				if (problem.name.title == "CHF")
 				{
-					return parseInt(problem.comments);
+					return parseInt(problem.notes);
 				}
 			}
 			return 0;
