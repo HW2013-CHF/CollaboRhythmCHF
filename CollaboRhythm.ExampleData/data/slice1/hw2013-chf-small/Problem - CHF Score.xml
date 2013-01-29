@@ -17,7 +17,7 @@
   -->
 <Problem xmlns="http://indivo.org/vocab/xml/documents#">
 	<dateOnset>2002-05-16T16:57:00Z</dateOnset>
-	<name type="umls-snomed" value="59621000" abbrev="None">CHF Score</name>
+	<name type="umls-snomed" value="59621000" abbrev="None">CHF</name>
 	<comments>7</comments>
 	<diagnosedBy>jking@records.media.mit.edu</diagnosedBy>
 </Problem>

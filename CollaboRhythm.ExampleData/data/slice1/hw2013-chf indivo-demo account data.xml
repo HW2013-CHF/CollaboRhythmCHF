@@ -169,7 +169,7 @@
     
     <contactEmail>not_used@localhost</contactEmail>
     
-    <fullName>Example Clinician</fullName>
+    <fullName>Yuval Barak-Corren</fullName>
     
     <username>hw2013-chf-yuval</username>
     
@@ -247,7 +247,7 @@
     
     <contactEmail>not_used@localhost</contactEmail>
     
-    <fullName>Example Patient</fullName>
+    <fullName>Sarah Marshall</fullName>
     
     <username>hw2013-chf-sarah</username>
     
@@ -269,17 +269,17 @@
     
     <timeZone>-5GMT</timeZone>
     
-    <emailPersonal>example-patient@records.media.mit.edu</emailPersonal>
+    <emailPersonal>hw2013-chf-sarah@records.media.mit.edu</emailPersonal>
     
     <phoneNumberHome>1-555-555-6548</phoneNumberHome>
     
     <phoneNumberWork>1-555-555-8654</phoneNumberWork>
     
-    <instantMessengerName>example-patient@records.media.mit.edu</instantMessengerName>
+    <instantMessengerName>hw2013-chf-sarah@records.media.mit.edu</instantMessengerName>
     
     <dateOfBirth>1940-02-24T00:00:00Z</dateOfBirth>
     
-    <age>70</age>
+    <age>76</age>
     
     <gender>Female</gender>
     
@@ -303,13 +303,13 @@
     
     <recordId>01f31cc8-097c-4fe8-8481-13d20e26cdfe</recordId>
     
-    <accessKey>NpmCWcXsr8WwVxewyQ0m</accessKey>
+    <accessKey>bBpz0iOMyDBPT83oaJvX</accessKey>
     
-    <accessSecret>9lZS76dkR8mOzCiaOaPy</accessSecret>
+    <accessSecret>VJi17EZvrBhATyvORTcq</accessSecret>
     
-    <status>Login successful</status>
+    <status>Demographics document created. Id: 076fb785-ab4b-404c-89e2-9fbdc6a94cbe</status>
     
-    <demographicsId>2376697c-d1e1-46bd-96d7-3c40b9344810</demographicsId>
+    <demographicsId>076fb785-ab4b-404c-89e2-9fbdc6a94cbe</demographicsId>
     
     <recordSeed/>
     
@@ -331,7 +331,7 @@
     
     <contactEmail>not_used@localhost</contactEmail>
     
-    <fullName>Example Patient</fullName>
+    <fullName>Jeff Small</fullName>
     
     <username>hw2013-chf-small</username>
     
@@ -353,19 +353,19 @@
     
     <timeZone>-5GMT</timeZone>
     
-    <emailPersonal>example-patient@records.media.mit.edu</emailPersonal>
+    <emailPersonal>hw2013-chf-small@records.media.mit.edu</emailPersonal>
     
     <phoneNumberHome>1-555-555-6548</phoneNumberHome>
     
     <phoneNumberWork>1-555-555-8654</phoneNumberWork>
     
-    <instantMessengerName>example-patient@records.media.mit.edu</instantMessengerName>
+    <instantMessengerName>hw2013-chf-small@records.media.mit.edu</instantMessengerName>
     
     <dateOfBirth>1940-02-24T00:00:00Z</dateOfBirth>
     
-    <age>70</age>
+    <age>78</age>
     
-    <gender>Female</gender>
+    <gender>Male</gender>
     
     <ethnicity>White</ethnicity>
     
@@ -417,7 +417,7 @@
     
     <contactEmail>not_used@localhost</contactEmail>
     
-    <fullName>Example Patient</fullName>
+    <fullName>David Silverman</fullName>
     
     <username>hw2013-chf-david</username>
     
@@ -439,25 +439,25 @@
     
     <timeZone>-5GMT</timeZone>
     
-    <emailPersonal>example-patient@records.media.mit.edu</emailPersonal>
+    <emailPersonal>hw2013-chf-david@records.media.mit.edu</emailPersonal>
     
     <phoneNumberHome>1-555-555-6548</phoneNumberHome>
     
     <phoneNumberWork>1-555-555-8654</phoneNumberWork>
     
-    <instantMessengerName>example-patient@records.media.mit.edu</instantMessengerName>
+    <instantMessengerName>hw2013-chf-david@records.media.mit.edu</instantMessengerName>
     
     <dateOfBirth>1940-02-24T00:00:00Z</dateOfBirth>
     
     <age>70</age>
     
-    <gender>Female</gender>
+    <gender>Male</gender>
     
     <ethnicity>White</ethnicity>
     
     <language>English</language>
     
-    <maritalStatus>Widowed</maritalStatus>
+    <maritalStatus>Married</maritalStatus>
     
     <employmentStatus>Retired</employmentStatus>
     
@@ -473,9 +473,9 @@
     
     <recordId>17ebc39b-3aba-45ba-9927-cf993915e854</recordId>
     
-    <accessKey>TKGFPHjge88Ae7vLzL1l</accessKey>
+    <accessKey>RPsJSi3Lf1ZrK4b9wn0j</accessKey>
     
-    <accessSecret>EmJPwxpvq9jwR9Jbn4Is</accessSecret>
+    <accessSecret>Xu8k0hFd8pOR5h0BtxOd</accessSecret>
     
     <status>Login successful</status>
     
@@ -494,4 +494,5 @@
     <mode>patient</mode>
     
   </AccountSource>
+  
 </dataroot>

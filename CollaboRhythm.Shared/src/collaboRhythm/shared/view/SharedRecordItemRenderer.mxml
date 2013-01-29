@@ -115,7 +115,7 @@
 			{
 				for each (var problem:Problem in _problemsModel.problemsCollection)
 				{
-					if (problem.name.text == "CHF Score")
+					if (problem.name.text == "CHF")
 					{
 
 						_currentCHFScore = parseInt(problem.comments);
@@ -159,7 +159,7 @@
 						<s:p>
 							<s:span text="{_recordAccount.primaryRecord.demographics.age}"/>
 							<s:span color="{SEPARATOR_COLOR}">|</s:span>
-							<s:span text="{_recordAccount.primaryRecord.demographics.ethnicity}"/>
+							<s:span text="{_recordAccount.primaryRecord.demographics.maritalStatus}"/>
 							<s:span color="{SEPARATOR_COLOR}">|</s:span>
 							<s:span text="{_recordAccount.primaryRecord.demographics.gender}"/>
 						</s:p>
@@ -198,7 +198,7 @@
 			<s:Label id="unreadMessageCountLabel" horizontalCenter="0" verticalCenter="-2"
 					 text="{_recordAccount.messagesModel.unreadMessageCount}"/>
 		</s:Group>
-		<s:Label text="{_currentCHFScore.toString()}" right="0"/>
+		<!--<s:Label text="{_currentCHFScore.toString()}" right="0"/>-->
 	</s:Group>
 
 	<s:Line left="0" right="0" bottom="0">

@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--~
+  ~ Copyright 2013 John Moore, Scott Gilroy
+  ~
+  ~ This file is part of CollaboRhythm.
+  ~
+  ~ CollaboRhythm is free software: you can redistribute it and/or modify it under the terms of the GNU General Public
+  ~ License as published by the Free Software Foundation, either version 2 of the License, or (at your option) any later
+  ~ version.
+  ~
+  ~ CollaboRhythm is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied
+  ~ warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more
+  ~ details.
+  ~
+  ~ You should have received a copy of the GNU General Public License along with CollaboRhythm.  If not, see
+  ~ <http://www.gnu.org/licenses/>.
+  -->
+<IndivoDocuments>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T04:00:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T04:15:00Z</dateMeasuredStart>
+				<result>
+					<value>400</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T04:30:00Z</dateMeasuredStart>
+				<result>
+					<value>500</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T04:45:00Z</dateMeasuredStart>
+				<result>
+					<value>200</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T05:00:00Z</dateMeasuredStart>
+				<result>
+					<value>100</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T05:15:00Z</dateMeasuredStart>
+				<result>
+					<value>100</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T05:30:00Z</dateMeasuredStart>
+				<result>
+					<value>50</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T05:45:00Z</dateMeasuredStart>
+				<result>
+					<value>50</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T06:00:00Z</dateMeasuredStart>
+				<result>
+					<value>50</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T06:15:00Z</dateMeasuredStart>
+				<result>
+					<value>50</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T06:30:00Z</dateMeasuredStart>
+				<result>
+					<value>50</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T06:45:00Z</dateMeasuredStart>
+				<result>
+					<value>100</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T07:00:00Z</dateMeasuredStart>
+				<result>
+					<value>150</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T07:15:00Z</dateMeasuredStart>
+				<result>
+					<value>150</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T07:30:00Z</dateMeasuredStart>
+				<result>
+					<value>150</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T07:45:00Z</dateMeasuredStart>
+				<result>
+					<value>200</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T08:00:00Z</dateMeasuredStart>
+				<result>
+					<value>250</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T08:15:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T08:30:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T08:45:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T09:00:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T09:15:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T09:30:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T09:45:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T10:00:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T10:15:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T10:30:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T10:45:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T11:00:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T11:15:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T11:30:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T11:45:00Z</dateMeasuredStart>
+				<result>
+					<value>301</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T12:00:00Z</dateMeasuredStart>
+				<result>
+					<value>325</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T12:15:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T12:30:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T12:45:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T13:00:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T13:15:00Z</dateMeasuredStart>
+				<result>
+					<value>108</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T13:30:00Z</dateMeasuredStart>
+				<result>
+					<value>64</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T13:45:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T14:00:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T14:15:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T14:30:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T14:45:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T15:00:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T15:15:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T15:30:00Z</dateMeasuredStart>
+				<result>
+					<value>34</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T15:45:00Z</dateMeasuredStart>
+				<result>
+					<value>245</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T16:15:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T16:30:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T16:45:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T17:00:00Z</dateMeasuredStart>
+				<result>
+					<value>351</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T17:15:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T17:30:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T17:45:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T18:00:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T18:15:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T18:30:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T18:45:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T19:00:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T19:15:00Z</dateMeasuredStart>
+				<result>
+					<value>300</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T19:30:00Z</dateMeasuredStart>
+				<result>
+					<value>143</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+	<LoadableIndivoDocument>
+		<document>
+			<VitalSign xmlns="http://indivo.org/vocab/xml/documents#">
+				<name>Step Count</name>
+				<measuredBy>hw2013-chf-david@records.media.mit.edu</measuredBy>
+				<dateMeasuredStart>2011-07-15T19:45:00Z</dateMeasuredStart>
+				<result>
+					<value>113</value>
+					<unit>Steps</unit>
+				</result>
+			</VitalSign>
+		</document>
+	</LoadableIndivoDocument>
+</IndivoDocuments>
