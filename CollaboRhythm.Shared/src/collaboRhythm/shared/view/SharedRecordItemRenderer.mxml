@@ -115,10 +115,10 @@
 			{
 				for each (var problem:Problem in _problemsModel.problemsCollection)
 				{
-					if (problem.name.text == "CHF")
+					if (problem.name.title == "CHF")
 					{
 
-						_currentCHFScore = parseInt(problem.comments);
+						_currentCHFScore = parseInt(problem.notes);
 					}
 
 					// add pipe to separate problems
@@ -132,7 +132,7 @@
 					}
 
 					var span:SpanElement = new SpanElement();
-					span.text = problem.name.text;
+					span.text = problem.name.title;
 					problemsParagraph.addChild(span);
 				}
 			}
